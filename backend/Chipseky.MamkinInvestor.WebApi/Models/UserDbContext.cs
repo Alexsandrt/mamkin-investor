@@ -9,4 +9,6 @@ public class UserDbContext : IdentityDbContext<IdentityUser>
     {
         Database.EnsureCreated();
     }
-}
+}classgg
+
+j
